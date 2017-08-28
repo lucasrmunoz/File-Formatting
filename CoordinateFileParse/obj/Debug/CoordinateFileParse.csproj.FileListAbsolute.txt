@@ -1,0 +1,6 @@
+C:\Users\lmunoz\Documents\Sample Projects\CoordinateFileParse\CoordinateFileParse\bin\Debug\CoordinateFileParse.exe.config
+C:\Users\lmunoz\Documents\Sample Projects\CoordinateFileParse\CoordinateFileParse\bin\Debug\CoordinateFileParse.exe
+C:\Users\lmunoz\Documents\Sample Projects\CoordinateFileParse\CoordinateFileParse\bin\Debug\CoordinateFileParse.pdb
+C:\Users\lmunoz\Documents\Sample Projects\CoordinateFileParse\CoordinateFileParse\obj\Debug\CoordinateFileParse.csprojResolveAssemblyReference.cache
+C:\Users\lmunoz\Documents\Sample Projects\CoordinateFileParse\CoordinateFileParse\obj\Debug\CoordinateFileParse.exe
+C:\Users\lmunoz\Documents\Sample Projects\CoordinateFileParse\CoordinateFileParse\obj\Debug\CoordinateFileParse.pdb
